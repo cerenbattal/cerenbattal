@@ -4,7 +4,8 @@
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=cerenbattal" alt="cerenbattal" /> </p>
 
 <p>I keep myself updated and I am currently working on web technologies. 
-
+  
+- 🚀  I'm currently working on [Siemens AG](http://siemens.com)
 - 🔭 I’m currently working on Frontend Development technologies.
 - 🌱 I’m currently learning **NodeJS, ReactJS**
 - 🤔 I’m looking for help with **ReactJS**
