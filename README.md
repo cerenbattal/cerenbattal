@@ -9,7 +9,7 @@
   
 - 🚀  I'm currently working on [Siemens AG](http://siemens.com)
 - 🌱 I’m learning **React Native and Next.js!**
-- 🤔 I’m looking for help with **ReactJS**
+- 🤔 I’m looking for help with **React Native**
 - 💬 Ask me about **anything!**
 - 📫 How to reach me: **cerenbattal97@gmail.com**
   
