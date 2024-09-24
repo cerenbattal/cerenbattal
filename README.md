@@ -8,7 +8,7 @@
 <p>I keep myself updated and I am currently working on web technologies. 
   
 - 🚀  I'm currently working on [Siemens AG](http://siemens.com)
-- 🌱 I’m learning **NodeJS, ReactJS**
+- 🌱 I’m learning **React Native and Next.js!**
 - 🤔 I’m looking for help with **ReactJS**
 - 💬 Ask me about **anything!**
 - 📫 How to reach me: **cerenbattal97@gmail.com**
