@@ -20,9 +20,16 @@
 - 💼 Preferred work environment: **Hybrid**
 
 
+
+
+
+
+
+
+
 ### 🛠 Tech Stack
 
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" style="margin-right: 8px;"/></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin-right: 8px;"/></a>
 
 ### 📊 GitHub Stats
 
