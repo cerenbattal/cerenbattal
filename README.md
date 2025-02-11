@@ -1,33 +1,74 @@
-### Hi there 👋
-
-<a href="https://app.daily.dev/cerenbattal"><img src="https://api.daily.dev/devcards/v2/EWSgmrnuOPSqzxCQOowes.png?r=ojo&type=default" width="356" alt="Ceren Battal's Dev Card"/></a>
-
-<h4 align="left">I'm Ceren, a software engineer from Turkey.</h4>
-<p  align="left"> <img src="https://komarev.com/ghpvc/?username=cerenbattal" alt="cerenbattal" /> </p>
-
-<p>I keep myself updated and I am currently working on web technologies. 
+<div align="center">
   
-- 🚀  I'm currently working on [Siemens AG](http://siemens.com)
-- 🌱 I’m learning **React Native and Next.js!**
-- 🤔 I’m looking for help with **React Native**
-- 💬 Ask me about **anything!**
-- 📫 How to reach me: **cerenbattal97@gmail.com**
+# Hi there! 👋 I'm Ceren
+
+### Frontend Developer
+📍 Istanbul, TR
+💻 5+ years of experience
+
+🔭 **Open to Work!**
+👯 **Open to Collaboration!**
+📚 **Available for Mentoring!**
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🚀 Working on **building frontend apps!**
+- 💼 Preferred work environment: **Hybrid**
+
+
+### 🛠 Tech Stack
+
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 8px;"/></a><a href="#" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" style="margin-right: 8px;"/></a>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cerenbattal&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerenbattal&theme=radical" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cerenbattal&theme=radical" alt="GitHub Profile Summary" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerenbattal&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
+
+### 📱 Daily.dev Card
+
+<div align="center">
+  <a href="https://app.daily.dev/cerenbattal">
+    <img src="https://api.daily.dev/devcards/cerenbattal.png" width="400" alt="Ceren's Dev Card"/>
+  </a>
+</div>
+
+### 🌐 Connect with me
+
+- 📫 Email: [cerenbattal97@gmail.com](mailto:cerenbattal97@gmail.com)
+- 🌐 Portfolio: [https://cerenbattal.github.io/](https://cerenbattal.github.io/)
+- 💼 LinkedIn: [cerenbattal](https://linkedin.com/in/cerenbattal)
+
+
+### ☕ Support My Work
+
+<a href="https://www.buymeacoffee.com/cerenbattal">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
+
+
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cerenbattal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+
+<div align="center">
   
- <h4>🛠 Tech Stack</h4>
+### 🔍 Open to Work!
+Feel free to reach out for opportunities!
 
-- 💻 &nbsp; Javascript ES5/ES6 | Python
-- 🌐 &nbsp; ReactJS | Angularjs | HTML | CSS | JavaScript | Bootstrap | Typescript | NodeJS 
-- 🔧 &nbsp; Visual Studio code | Git
-
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank">
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerenbattal&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/cerenbattal/github-readme-stats)
-  
-[![cerenbattal's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerenbattal&show_icons=true&theme=dracula)](https://github.com/cerenbattal/github-readme-stats)
-
-<h4> 🤝🏻 Connect with Me </h4>
-
-<a href="https://linkedin.com/in/cerenbattal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cerenbattal" height="30" width="40" /></a>
-
+</div>
