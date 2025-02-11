@@ -46,9 +46,7 @@
 ### 📱 Daily.dev Card
 
 <div align="center">
-  <a href="https://app.daily.dev/cerenbattal">
-    <img src="https://api.daily.dev/devcards/cerenbattal.png" width="400" alt="Ceren's Dev Card"/>
-  </a>
+  <a href="https://app.daily.dev/cerenbattal"><img src="https://api.daily.dev/devcards/v2/EWSgmrnuOPSqzxCQOowes.png?type=default&r=4t2" width="356" alt="Ceren Battal's Dev Card"/></a>
 </div>
 
 ### 🌐 Connect with me
