@@ -33,8 +33,6 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 <div>
   <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cerenbattal&theme=radical" alt="GitHub Profile Summary" />
