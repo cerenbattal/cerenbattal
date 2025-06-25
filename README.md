@@ -3,6 +3,8 @@
 # Hi there! 👋 I'm Ceren
 
 ### Frontend Developer
+
+Turning ideas into pixel-perfect realities✨ | React & JavaScript
 📍 Istanbul, TR
 💻 5+ years of experience
 
